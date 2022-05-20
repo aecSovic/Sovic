@@ -2850,6 +2850,9 @@ body.is-touch .main {
   text-decoration: none;
   font-size: 1.5em;
 }
+#intro{
+  color: rgb(8, 101, 201);
+}
 @media screen and (max-width: 2000px) and (min-width: 680px){
   #nav li{
     margin: -20px 0px;
